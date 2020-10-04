@@ -1,5 +1,15 @@
-TEST UPDATE TO README 
 
+# noodlr
+## About Noodlr
+Noodlr is a web app that allows DJs and Producers to plan and visualize their performance rigs.
+
+## To-dos:
+Here's a list of a few things that still need to be built:
+- Sign-in Authentication
+- Account Sign-up
+- Project Creator
+
+# React-App README Stuff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,5 +78,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# noodlr
-# noodlr
+
