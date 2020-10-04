@@ -1,3 +1,13 @@
+
+.logo {
+  display: block;
+  background-image: url('./logo.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 144px;
+  height: 40px;
+}
+
 .App {
   text-align: center;
 }
@@ -26,13 +36,4 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
